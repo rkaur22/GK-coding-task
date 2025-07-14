@@ -1,2 +1,2 @@
 # GK-coding-task
-Coming task for cash counter
+Coding task for cash counter
